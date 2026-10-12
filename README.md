@@ -90,3 +90,6 @@ Reproducible model training and version pinning, model performance report, featu
 ## License
 
 The uploaded source included an MIT-style LICENSE file; see `LICENSE` for its original terms and attribution.
+
+## Live Demo Link
+https://telcom-customer-churn-app-laibevauktt7jlzmih3su8.streamlit.app/
